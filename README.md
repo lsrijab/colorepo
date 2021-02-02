@@ -36,3 +36,12 @@ S.No. | Name | Marks
 
 # insert image:
 ![alt myimg](images.png)
+
+
+# insert a code
+Explain about sum of two numbers using python
+
+ a=4
+ b=6
+ c=a+b
+ print("The sum of {} and {} is {}".format(a,b,c))
