@@ -15,3 +15,21 @@ Java is a class-based, object-oriented programming language that is designed to 
 * Abstraction
 * Polymorphism
 * Encapsulation
+
+# ordered list
+1. one
+2. two
+
+# Tell me about your college:
+My college name is **Andhra Loyola Institute of Engineering and Technology** shortly known as *ALIET*
+
+# Create a link
+The syntax for creating a link in markdown [text](url)
+
+Ex: [ALIET](https://www.aliet.ac.in/)
+
+# Create a table
+S.No. | Name | Marks
+------|------|------
+1 | Myna | 61%
+2 | Srija | 78%
