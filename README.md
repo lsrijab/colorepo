@@ -33,3 +33,6 @@ S.No. | Name | Marks
 ------|------|------
 1 | Myna | 61%
 2 | Srija | 78%
+
+# insert image:
+![alt myimg](images.png)
