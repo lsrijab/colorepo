@@ -9,6 +9,8 @@ Java is a class-based, object-oriented programming language that is designed to 
 
 # what are the oops concepts in java
 * Class and object
+  * Class
+    * Object
 * Inheritance
 * Abstraction
 * Polymorphism
