@@ -47,4 +47,4 @@ Explain about sum of two numbers using python
       print("The sum of {} and {} is {}".format(a,b,c))
 
 # Select option
- [.] @mentions,#refs,[links],**formatting**, and ~tags~ supported
+ [.] @mentions, #refs, [links], **formatting**, and ~tags~ supported
